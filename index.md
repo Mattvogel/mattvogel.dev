@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Matt Vogel
 
 You can use the [editor on GitHub](https://github.com/Mattvogel/mattvogel.dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
