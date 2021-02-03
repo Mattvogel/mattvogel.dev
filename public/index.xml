@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mattvogel</title>
+    <link>https://mattvogel.dev/</link>
+    <description>Recent content on mattvogel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Feb 2021 23:44:44 +1000</lastBuildDate><atom:link href="https://mattvogel.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://mattvogel.dev/contact/</link>
+      <pubDate>Wed, 03 Feb 2021 23:25:36 +1000</pubDate>
+      
+      <guid>https://mattvogel.dev/contact/</guid>
+      <description> Email Linkedin Github  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mattvogel.dev/about/</link>
+      <pubDate>Wed, 03 Feb 2021 23:25:27 +1000</pubDate>
+      
+      <guid>https://mattvogel.dev/about/</guid>
+      <description> Background&amp;nbsp;¶ This is a section about me and my career so far
+Places i&amp;rsquo;ve worked&amp;nbsp;¶  Arkose Labs - 2020 - present Compare the Market - 2019 Temando - 2019 APNIC - 2016 - 2018 Cutting Edge 2015 - 2016  </description>
+    </item>
+    
+  </channel>
+</rss>
